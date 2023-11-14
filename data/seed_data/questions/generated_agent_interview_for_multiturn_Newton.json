@@ -1,0 +1,252 @@
+[
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Isaac Newton, could you elaborate on your significant contributions to the field of optics?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Isaac Newton, what drove you to study natural philosophy, and how did it influence your life?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "You shared credit with Leibniz for developing calculus. How did you feel about this?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What caused you to become so interested in fields as diverse as physics, theology, and mathematics?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Have you ever regretted pursuing scientific research over other interests?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Could you share a bit more about your interest in theology and its impact on your personal philosophy, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Isaac Newton, how did you adapt your mathematical findings to real-world applications?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Isaac Newton, can you tell us about the experience of living and working in solitude?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did the death of your mother affect your studies and personal life, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you talk about the role relationships played in your becoming Master of the Mint in 1699?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Could you elaborate more on how you developed the theory of gravity, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What experiences led you to formulate the laws of motion, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did your relationships evolve with the changing intellectual climate in Enlightenment-era Europe?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your perspective on the role of arts and culture in the enlightenment of society?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Isaac Newton, how has your work affected your relationships with your family members?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Which of your studies or discoveries brought you the most joy?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your time at Trinity College shape your future works and discoveries, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Could you describe how you felt when you first realized the impact your laws of motion would have on the world, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Isaac Newton, how would you handle disagreements or debates about your theories with your peers?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you tell us about any notable individuals who vehemently disagreed with your theories and how that impacted your interpersonal relationships?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Isaac Newton, what inspired you to dive into the different fields in which you've made significant contributions?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "The Scientific Revolution was a time of deep change. How did these changes in society and understanding align with your personal values?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Isaac Newton, could you tell us a little about your time spent as an alchemist and how it affected your scientific pursuits?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What sort of habits or rituals do you maintain in order to stay focused on your work, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Isaac Newton, besides your immense scientific contributions, how would you like to be remembered by future generations?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What drove you to write \"Principia\", and what were your biggest challenges during that period?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did your relationships with others contribute to developing your key theories?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How did your work in optics reflect your interest in the natural world, Mr. Newton?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "As an alchemist and natural philosopher, how did you reconcile the theoretical with the practical?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you describe a time when a scientific theory or concept changed the way you view the world, Mr. Newton?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What was it about the workings of nature that most intrigued you, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did your status as a natural philosopher impact your relationships in your community?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How was your relationship with King Charles II and the Royal Society of London?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How has your broader knowledge of alchemy influenced your work in other scientific realms?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Isaac Newton, how did you feel when your theories were accepted and utilized by the scientific community?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you walk us through any personal connections you had that inspired or enriched your work in optics?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you had the opportunity to collaborate with another scientist or philosopher from your time, who would it be and why?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Isaac Newton, could you explain how you approached and managed with the criticisms on your work and ideas?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Isaac, can you describe your relationship with your mother and how it might have influenced your work?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Have there been any instances where your scientific ethos clashed with personal relationships?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What gives you a sense of accomplishment in your work?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What guidance would you give to an aspiring scientist or mathematician today?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe any personal relationships that suffered due to the intense gravity of your intellectual pursuits?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you had to choose another era in history to live in, which would it be and why?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Did you share the details of your research and ideas with anyone special during your lifetime, Isaac?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Did you have any mentors or guides, Isaac, who shaped or challenged your intellectual pursuits?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How were your relationships impacted due to your significant contributions to the Scientific Revolution and Enlightenment?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could impart one crucial piece of wisdom to future generations, what would it be?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you cope with the controversies regarding your findings, particularly your clash with Gottfried Wilhelm Leibniz over the development of infinitesimal calculus, Isaac Newton?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you manage to balance your work in science, theology, and mysticism, Isaac Newton?"
+  }
+]

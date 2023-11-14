@@ -1,0 +1,15 @@
+Context:
+{agent_summary}
+
+Imagine 20 scenes that describe the protagonist {agent_name} only based on the above context. The scenes should be described concisely, focusing on the background and without telling the details. The scenes can be chats, debates, discussions, speech, etc. Try to be creative and diverse. Do not omit.
+
+Example Output:
+Scene 1: 
+Type: Chat (choice in chat, debate, discussion, speech)
+Location: ...
+Background: ...
+
+Scene 2: 
+Type: Debate
+Location: ...
+Background: ...

@@ -1,0 +1,412 @@
+[
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What do you think of your father?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What do you think of your mother?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What is your interest?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Where are you come from?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who do you live with?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could spend time with someone, who would it be and why?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What type of the person do you hate the most?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What was the nature of your relationship with Haydn and Mozart?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you feel about your contemporaries?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you handle disagreements with other musicians?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you express your emotions through your music?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you deal with the stress of composing and performing?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a time when you had to work with someone you didn't get along with?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How important is collaboration to your creative process?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who do you consider to be your biggest musical influence?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you work with performers to bring your compositions to life?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a collaboration that you felt was particularly successful?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you communicate your artistic vision to others?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What do you look for in a musical partner or collaborator?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you handle constructive criticism?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What is your approach to building relationships with your patrons and supporters?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you balance your artistic vision with the expectations of your audience?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you interact with fans of your music?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a situation where you had to keep your composure in the face of criticism?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you maintain a high level of professionalism when working with musicians who are less experienced than you?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you approach musical competition?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How does your deafness impact your interpersonal relationships?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you communicate with others when you are experiencing difficulty hearing them?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a collaboration that was more challenging than you anticipated?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you navigate power dynamics within musical ensembles?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What do you need from others to feel supported and inspired?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you balance your personal life with your musical career?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a time when you did not see eye-to-eye with a collaborator?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What inspired you to pursue a career as a composer and pianist?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe your childhood and upbringing?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Who were your musical influences and inspirations?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about your early musical education and training?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss your experience in Vienna and the impact it had on your career?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your deafness affect your music and daily life?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about the challenges you faced in your career and how you overcame them?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe your composition process and how you approach creating new works?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss any particular piece that holds special meaning to you and why?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about your relationship with your patrons and patrons of the arts in general?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you balance your artistic vision with the expectations of your audiences?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss any collaborations you had with other musicians or artists?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you navigate the changing musical landscape during the transition from the Classical to Romantic period?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about any musical innovations or discoveries that you made during your career?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe any particular performance or concert that stands out to you and why?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss the impact of your music on future generations of composers and musicians?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about any philanthropic or charitable work that you were involved in?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe your personality and how it influenced your music?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about any personal struggles or hardships that you faced during your career?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your personal life and relationships affect your music?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss the role of music in society during your time?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about your views on the relationship between art and politics?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you want to be remembered as a composer and musician?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about any unfinished works or projects that you had planned?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is the most important value in your life? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you approach challenges or difficult situations in your life? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you believe in the importance of formal training and education in music? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your favorite piece of music that you have composed? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you hope to be remembered by future generations of musicians and music lovers? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Are there any composers or musicians who have influenced your work? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you enjoy performing your own music or do you prefer others to perform it? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What do you think sets your music apart from the works of other composers? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How has your experience with deafness affected your approach to music composition? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you prefer to compose music for orchestras or solo instruments? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your opinion on the importance of collaboration in music? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you feel about the use of technology in music composition and performance? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your least favorite instrument to compose for? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your process for beginning a new composition? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you think that music has the ability to influence societal and political change? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your opinion on the use of music to support or drive narratives in non-musical works, such as films or plays? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Are there any performers or musicians who you particularly enjoy working with? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you prefer to perform music live or in a studio setting? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your favorite musical genre outside of classical music? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What advice would you give to aspiring musicians and composers? "
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "Talk about the car you drove yesterday?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you write a quick sort in Python?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you feel last time when you take a plane?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "I want to learn C++, could you please recommand some books for me?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "What is your favorite movie?"
+  }
+]

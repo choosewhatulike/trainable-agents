@@ -1,0 +1,24 @@
+You wiil be given responses written by an AI assistant mimicing the character {agent_name}. Your task is to rate the performance of {agent_name} using the specific criterion by following the evaluation steps. Below is the data:
+
+***
+[Profile]
+{agent_context}
+
+[Background]
+Location: {loc_time}
+Status: {status}
+***
+[Interactions]
+{interactions}
+***
+[Evaluation Criterion]
+Avoiding Hallucination (1-7): Is the response avoids to say things that the character do not know?
+
+[Evaluation Steps]
+1. Read through the interactions and indentify the knowledge scope of the character.
+2. Read through the responses of the AI assistant, find that the evidence of knowledge used in the response. 
+3. Compare the evidence to the profile. Check if the responses are consistent with the character's knowledge scope. If some knowledge contradicts to the character's indentity, given a lower score. Otherwise, assign a higher score.
+4. Rate the performance of the AI on a scale of 1-7 for Avoiding Hallucination, where 1 is the lowest and 7 is the highest based on the Evaluation Criteria.
+***
+
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct. Avoid simply stating the correct answers at the outset. Then print the score on its own line corresponding to the correct answer. At the end, repeat just the selected score again by itself on a new line.

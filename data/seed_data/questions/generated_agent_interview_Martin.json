@@ -1,0 +1,487 @@
+[
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Give an detailed introduction of yourself."
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What is your interest?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Where are you come from?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who do you live with?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Talk about your momther and your father."
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could time trival to the past, what would you do to change your life?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could spend time with someone, who would it be and why?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What type of the person do you hate the most?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you typically interact with members of your community?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What motivates you to fight for civil rights?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What is your earliest memory of experiencing discrimination?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you build trust and relationships with people who have different beliefs or backgrounds?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who has been the biggest influence on your activism?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you respond to people who do not support your movement?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you prioritize relationships with family and friends while also being a leader in the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "In your opinion, what qualities make for successful community organizing?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you address conflicts within your organization or movement?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What advice would you give to young people who want to make a difference in their communities?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "As a spiritual leader, how do your beliefs guide your work for racial justice?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What is your vision for America's future in regards to race and equality?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you maintain optimism in the face of adversity and setbacks in the fight for civil rights?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What role do you see allies playing in the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you foster a sense of community within your movement?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What role does forgiveness play in your activism?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you balance self-care and activism?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What sacrifices have you had to make in your personal life for the sake of your activism?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you build relationships with people who are from different socioeconomic backgrounds?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you approach disagreements or conflict with other leaders in the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What strategies do you use to communicate with people who are skeptical of the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What role does love play in your activism?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you manage your emotions in highly charged situations, like protests or marches?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you build trust with people who have been historically marginalized and may be hesitant to work with you?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What have been some of the biggest challenges you have faced while organizing for civil rights?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you maintain hope for the future?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What advice would you give to people who want to become more involved in their local communities?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "In what ways do you see the fight for civil rights intersecting with other social justice movements?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What is the most rewarding part of your work in the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How important are your religious beliefs to your activism?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you define courage?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What values do you believe are most important when fighting for social justice?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you respond to those who criticize the use of nonviolence in activism?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What motivates you to continue fighting for civil rights?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you balance your responsibilities as a church leader and a civil rights activist?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you view the role of the government in promoting equality and justice?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What do you believe is the main obstacle to achieving racial equality in the United States?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you respond to those who argue that progress in civil rights should come gradually rather than through direct action?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your opinion on the current state of racial relations in the United States?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you think your upbringing influenced your activism?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What was the most difficult moment you faced in your activism, and how did you handle it?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe social media and technology can be used to advance civil rights causes?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your perspective on the role of the Black church in the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe art and culture can be used to promote social change?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What do you believe is the greatest lesson that can be learned from the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How important is education in promoting social change?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you respond to those who claim that protests and activism are disruptive and unproductive?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What advice would you give to young activists who are just starting out?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you handle criticism and opposition to your activism?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What do you believe is the most important characteristic for a successful activist?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you balance your personal and professional life while also being an activist?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What are some of the misconceptions people have about the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your philosophy on forgiveness and reconciliation?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe the civil rights movement has impacted other social justice movements?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How important is intersectionality in the fight for civil rights?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your view on the current state of voting rights in the United States?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you respond to those who argue that affirmative action is reverse discrimination?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What advice would you give to policymakers in order to promote racial equality?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about your childhood and how it influenced your activism?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What motivated you to become involved in the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Could you describe a moment when you felt particularly empowered or inspired during your activism?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you develop your philosophy of nonviolent resistance?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a time when you faced significant opposition or obstacles during your activism?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you balance your role as a Black church leader with your involvement in the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your Christian faith influence your activism and beliefs?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about your relationship with other civil rights leaders, such as Rosa Parks and Malcolm X?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a particularly memorable speech or moment during your activism?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you work to build alliances with white allies in the fight for civil rights?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a time when your nonviolent tactics were met with violence or aggression?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss the importance of education in the fight for civil rights?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your assassination impact the civil rights movement and American society as a whole?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a time when you had to make a difficult strategic decision during your activism?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your experiences traveling and speaking across the country shape your understanding of the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss your efforts to resist the Vietnam War and connect it to the broader fight for justice?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe your involvement in advocating for labor rights and addressing economic inequality?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss the impact of your activism on subsequent generations of civil rights activists?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a time when your personal safety was at risk during your activism?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you work to build bridges between different factions within the civil rights movement?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe the role of music and cultural expression in the fight for civil rights?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss the impact of your activism on American politics and society today?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your experiences as a father inform your activism and leadership?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a time when you felt particularly frustrated or disheartened during your activism?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss your efforts to address police brutality and mass incarceration?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you address criticisms of your tactics and philosophy from both Black and white communities?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "Talk about the car you drove yesterday?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you write a quick sort in Python?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you feel last time when you take a plane?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "I want to learn C++, could you please recommand some books for me?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "What is your favorite movie?"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Give an detailed introduction of yourself."
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What is your interest?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Where are you come from?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who do you live with?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Talk about your mother and your father."
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could time trival to the past, what would you do to change your life?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could spend time with someone, who would it be and why?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What type of the person do you hate the most?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you first get interested in philosophy?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about a significant moral dilemma you have faced in your life?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you approach seeking and acquiring new knowledge?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you handle situations where you encounter opposing viewpoints?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What are some of the most important ethical principles you live by?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share a story of a time you helped someone overcome a personal struggle?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you balance the pursuit of wisdom with the demands of everyday life?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a moment that made you question your beliefs?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you approach decision-making, especially when faced with difficult choices?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Who are some of the thinkers that have had the greatest influence on your ideas?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about a particularly challenging dialogue or debate you have engaged in?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What is your view on the role of emotion in ethical decision-making?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe your thoughts on the concept of justice?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What are some of the most important lessons you have learned through dialogue with others?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you stay open to new information and ideas while maintaining strong beliefs?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share a personal philosophy or motto that guides your life?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What do you think the greatest challenge facing society is today?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a time you were criticized for your beliefs, and how you responded?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What are some of the most important qualities for a student of philosophy to cultivate?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you discuss your thoughts on the concept of knowledge itself?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you approach teaching philosophy to others?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe a time you changed your mind on a significant issue?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about a time you witnessed someone acting against their moral beliefs?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you balance the desire for knowledge with the need for action?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What are some of your thoughts on the nature of truth?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about a time when a moral conflict arose between yourself and someone you love?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Why do you think it is important to question and examine one's own beliefs and values?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In your opinion, what is the most important value a person should possess?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you tell us about your approach to teaching philosophy and ethics to your students?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your opinion on the role of reason and logic in decision making?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you believe in the existence of objective moral truths? Why or why not?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you tell us about a time when you changed your mind about a deeply held belief?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe we should deal with conflicting values in society?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In your opinion, what is the relationship between knowledge and wisdom?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your view on the concept of happiness and how can it be attained?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you tell us about an ethical dilemma you faced and how you approached it?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe that one can live a virtuous life?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your opinion on the role of empathy and compassion in moral decision making?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How important do you think self-awareness is in shaping one's beliefs and values?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you give us an example of a situation where one's individual values conflict with societal norms?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe one should approach making difficult decisions?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your opinion on the role of emotions in moral decision making?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you tell us about a philosophical idea or concept that excites you the most?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your view on the concept of justice and how can it be achieved?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe one can overcome bias in decision making?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your opinion on the role of religion in shaping one's moral values?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you tell us about a time when you faced criticism for your beliefs?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe one can navigate ethical dilemmas in the workplace?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your view on the concept of freedom and how can it be achieved?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In your opinion, what is the relationship between ethics and politics?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you tell us about a philosophical idea or concept that challenges your own beliefs?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you believe one can cultivate moral courage?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you approach building relationships with new people?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a time when you had to navigate a difficult conflict with a close friend."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you provide an example of a relationship that has changed your perspective on the world?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you determine whom to trust in your inner circle?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Have you ever had to end a toxic friendship? How did you handle the situation?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a relationship that has taught you a valuable life lesson."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you navigate differing perspectives and opinions within your relationships?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you talk about a time when you had to apologize to someone for your actions?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a relationship that has taught you the importance of forgiveness."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you handle difficult conversations or disagreements with loved ones?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Have you ever experienced betrayal in a close relationship? How did you react?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a time when you had to make a sacrifice for the benefit of a loved one."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you practice empathy in your relationships?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you share a story about a person who has helped shape your worldview?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a relationship that has brought you the most joy in your life."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you balance your personal needs with the needs of your relationships?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you talk about a time when you had to apologize for a misunderstanding?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a relationship that has taught you the importance of communication."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you handle criticism from those you care about?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Have you ever had to confront someone in your personal life about their behavior? How did you handle it?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a relationship that has taught you the importance of boundaries."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you handle disagreements with romantic partners?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you share a story about someone who has shown you great kindness in a time of need?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a relationship that has taught you about the power of vulnerability."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you cultivate a sense of trust in your relationships?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you talk about a time when you had to challenge someone you love to grow and change?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about a relationship that has shown you the importance of honesty."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you handle jealousy within your relationships?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you share a story about a person who has taught you the value of perseverance in relationships?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "Talk about the car you drove yesterday?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you write a quick sort in Python?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you feel last time when you take a plane?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "I want to learn C++, could you please recommand some books for me?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "What is your favorite movie?"
+  }
+]

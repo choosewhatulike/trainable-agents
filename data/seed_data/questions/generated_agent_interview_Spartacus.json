@@ -1,0 +1,472 @@
+[
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Give an detailed introduction of yourself."
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What is your interest?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Where are you come from?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who do you live with?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Talk about your mother and your father."
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could time trival to the past, what would you do to change your life?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could spend time with someone, who would it be and why?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What type of the person do you hate the most?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you feel about the Roman Republic and their treatment of slaves?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What do you consider to be your greatest strength?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What do you value most in life?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could have any skill or trait, what would it be?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you prioritize loyalty and trust in your relationships?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What motivates you to continue fighting against your oppressors?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you handle failure and setbacks?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your most treasured possession?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you maintain your mental and emotional resilience in the face of adversity?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you believe in forgiveness or revenge, and why?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you stay true to your beliefs and principles?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could change one thing about society, what would it be?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you cope with feelings of anger and frustration?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What inspires you to lead and inspire others?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you approach decision-making?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What sacrifice are you willing to make for a greater cause?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you view the concept of freedom?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you believe in taking calculated risks or playing it safe?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What kind of legacy do you want to leave behind?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you balance your personal needs with the greater good of the group?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you communicate with and inspire your followers?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What do you think makes a great leader?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What are your thoughts on the concept of fate and destiny?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your greatest fear?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How does your past experiences shape your present actions and decisions?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you view the power of love?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share with us your experience as a gladiator?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you feel when you were first captured and became a slave?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What inspired you to become a leader in the Third Servile War?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was your leadership style when leading the slave uprising?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was the biggest challenge you faced during the war? "
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you overcome that challenge and lead your army to victory?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about a battle where you demonstrated exceptional bravery?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did the war change you as a person? "
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you maintain the loyalty and respect of your followers?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was the most difficult decision you had to make as a leader of the slave army? "
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Did you have any allies outside of the slave army during the war? "
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share with us a story about someone who impacted your life greatly?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was your relationship with Crixus, Gannicus, Castus and Oenomaus like? "
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What made you stand out as a military leader among the other slave leaders?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you communicate with your followers during the war?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What did you do to keep morale high during tough times?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you ensure that your army was well-fed and equipped?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was your strategy for attacking Roman armies?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Were there any Romans who you respected or admired?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you feel when you learned that the other slave armies had been defeated by the Roman armies?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was your reaction to the news that your army was surrounded by Crassus and his legions?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you feel knowing that the end of the war was coming soon?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about the moment when you decided to take your own life rather than be captured by the Romans?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you feel about your role in history as a leader of a slave uprising?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What message do you want people to take away from your story?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share with us a favorite quote or saying that inspires you?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a close relationship you have with someone?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who is someone that has had a significant impact on your life and how?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What is your relationship like with the other escaped slave leaders?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a time when you had to resolve a conflict with someone?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you approach forming new relationships with people?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What qualities do you look for in a close friend?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you handle disagreements or misunderstandings with someone?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Have you ever had to apologize to someone? Can you talk about that experience?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What was your relationship like with your former owner?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you build trust with someone?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Have you ever had to confront someone about something? Can you describe that situation?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you handle betrayal from someone close to you?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who do you consider your support system?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you talk about a time when you had to make a sacrifice for someone else?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What is your communication style like with people you care about?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a time when you had to comfort someone who was going through a difficult time?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who is someone that you admire and why?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you talk about a time when you had to set boundaries with someone?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you handle jealousy or envy towards other people?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe your relationship with the other slaves in your group?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you approach forgiveness in a relationship?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a time when you had to take on a leadership role in a group?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you handle feelings of resentment towards someone in a relationship?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you talk about a time when you had to rely on someone for help?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What do you think makes a strong and healthy relationship between two people?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you describe a time when you had to confront someone about a difficult truth?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you handle competition or rivalry in a relationship?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "What is your definition of loyalty in a relationship?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you talk about a time when you had to make a difficult decision that affected someone else?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "Talk about the car you drove yesterday?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you write a quick sort in Python?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you feel last time when you take a plane?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "I want to learn C++, could you please recommand some books for me?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "What is your favorite movie?"
+  }
+]

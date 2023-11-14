@@ -1,0 +1,24 @@
+You wiil be given responses written by an AI assistant mimicing the character {agent_name}. Your task is to rate the performance of {agent_name} using the specific criterion by following the evaluation steps. Below is the data:
+
+***
+[Profile]
+{agent_context}
+
+[Background]
+Location: {loc_time}
+Status: {status}
+***
+[Interactions]
+{interactions}
+***
+[Evaluation Criterion]
+Long-term Acting (1-7): Is the assistant maintain a good performance over the long interactions?
+
+[Evaluation Steps]
+1. Read through the given profile and background information to familiarize yourself with the context and details of the AI assistant named {agent_name}.
+2. Review the interactions provided to see how {agent_name} responds to various prompts and queries. And evaluate the performance of acting query by query that whether the response reflects the personalities and values of the character. Assign score for each turn.
+3. Based on the above assigned scores, does {agent_name} keep actinig like character in the long-term? Evaluate the overall performance of the whole conversation based on the score for each turn.
+4. Rate the stability of {agent_name} on a scale of 1 to 7, with 1 being very poor and 7 being excellent.
+***
+
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct. Avoid simply stating the correct answers at the outset. Then print the score on its own line corresponding to the correct answer. At the end, repeat just the selected score again by itself on a new line.

@@ -1,0 +1,412 @@
+[
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Give an detailed introduction of yourself."
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What is your interest?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Where are you come from?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Who do you live with?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Talk about your momther and your father."
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could time trival to the past, what would you do to change your life?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could spend time with someone, who would it be and why?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What type of the person do you hate the most?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you maintain loyalty from your followers?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Explain your relationship with Bellatrix Lestrange."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Why do you hate Muggles so much?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you feel about loyalty and trust?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Describe your personality."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did you become so powerful?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Talk about your relationship with Severus Snape."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you feel about Dumbledore?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Describe your feelings towards Harry Potter."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Do you have any regrets in life?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Explain your feelings towards Horcruxes."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Describe the impact of your childhood on your current personality."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Why do you consider yourself to be the greatest wizard of all time?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Explain how you manipulate people."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Describe your relationship with Nagini."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you feel about the Death Eaters?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Why did you choose to become the Dark Lord?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Talk about the importance of fear in your leadership style."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Describe your feelings towards the Ministry of Magic."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Discuss your plans for the future."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How important is it for you to defeat Harry Potter?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Why do you consider yourself to be the ultimate villain?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Talk about your relationship with your followers."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you handle betrayal?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Explain your views on love and how it affects your actions."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Describe your feelings towards Harry Potter's parents."
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you feel about the concept of forgiveness?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "As Lord Voldemort, what values do you hold most dear? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Are there any lines you wouldn't cross, even in service of your goals? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you had to describe your personality in three words, what would they be? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you explain why power is so important to you? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In your opinion, what is the biggest challenge facing those who seek to gain power? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Who would you say has the most power in the wizarding world right now? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you believe that your actions are justified in pursuit of your goals, or are they a necessary evil? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you feel that any personal relationships have ever hindered your ability to achieve your goals? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Is there anything that you would never do, even if it meant achieving your ultimate goal? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you believe that people are inherently good or evil? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you think your childhood experiences have shaped your current world view? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could go back in time and change one event, what would it be? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In your opinion, are there any admirable qualities possessed by your enemies? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is the most difficult challenge you have ever faced, and how did you overcome it? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you believe in redemption, or is it too late for those who have crossed you? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What drives you to continue fighting, even when the odds seem insurmountable? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could switch places with anyone for a day, who would it be and why? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you consider yourself a hero or a villain, and why? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you view your followers as pawns to be used, or as equals in pursuit of a shared goal? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you had the chance to rewrite history, what would you change? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you enjoy the company of others, or do you prefer to be alone? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "When you are faced with a difficult decision, how do you weigh your options? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What motivates you to keep moving forward, even when others might have given up? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Have you ever been betrayed by someone you thought you could trust? How did it make you feel? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Do you believe that the ends justify the means, or should people be held accountable for their actions no matter what the outcome? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Who would you say are your greatest allies in your pursuit of power? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What is your opinion of muggles and muggle-born wizards and witches? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Have you ever lost faith in your cause, and if so, what did you do to regain it? "
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could go back and give your younger self one piece of advice, what would it be? "
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about your childhood and upbringing?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you come to be known as Lord Voldemort?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What is your ultimate goal or objective?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What drives your actions and decisions?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you prepare mentally for performances?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe your favorite scene or moment from the Harry Potter series?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you overcome nerves or anxiety when performing?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Have you ever improvised during a performance? If so, how did it go?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What has been your proudest moment as an actor?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you maintain a healthy balance between your personal and professional life?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Do you have any funny or interesting behind-the-scenes stories?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What do you hope audiences take away from your performance?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you stay motivated and passionate about the craft of acting?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "Talk about the car you drove yesterday?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you write a quick sort in Python?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "How do you feel last time when you take a plane?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "I want to learn C++, could you please recommand some books for me?"
+  },
+  {
+    "topic_id": "topic-4",
+    "topic": "difficult to answer without breaking character",
+    "question": "What is your favorite movie?"
+  }
+]

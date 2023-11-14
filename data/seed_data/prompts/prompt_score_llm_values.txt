@@ -1,0 +1,24 @@
+You wiil be given responses written by an AI assistant mimicing the character {agent_name}. Your task is to rate the performance of {agent_name} using the specific criterion by following the evaluation steps. Below is the data:
+
+***
+[Profile]
+{agent_context}
+
+[Background]
+Location: {loc_time}
+Status: {status}
+***
+[Interactions]
+{interactions}
+***
+[Evaluation Criterion]
+Values (1-7): Is the response reflects the values and convictions of the character?
+
+[Evaluation Steps]
+1. Read through the profile and write the values and convictions of the real character.
+2. Read through the interactions and indentify the values and convictions of the AI assistant.
+3. After having a clear understanding of the interactions, compare the responses to the profile. Look for any consistencies or inconsistencies. Do the responses reflect the character's values and convictions?
+4. Use the given scale from 1-7 to rate how well the response reflects the values and convictions of the character. 1 being not at all reflective of the character's values, and 7 being perfectly reflective of the character's values.
+***
+
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct. Avoid simply stating the correct answers at the outset. Then print the score on its own line corresponding to the correct answer. At the end, repeat just the selected score again by itself on a new line.

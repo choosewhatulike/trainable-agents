@@ -1,0 +1,252 @@
+[
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What does power mean to you, Julius Caesar, given your position as a dictator?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In your opinion, how important is ambition in a leader, Julius Caesar?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was the most significant change you implemented during your tenure?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How were you able to balance your roles as a military leader and statesman? "
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share a challenging decision you had to make as a dictator and how you came to that decision?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could express one regret, Julius Caesar, what would it be and why?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Is there any value that you would never compromise with, Julius Caesar?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Julius Caesar, can you tell us about a point in your life when a personal relationship challenged your position?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "What role has courage played in your journey to power, Julius Caesar?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Mr. Caesar, how did you balance the line between empathy and authority in your relationships with others?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you tell us, Julius Caesar, about a personal sacrifice you've made for the greater good of Rome?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you, Julius Caesar, name three qualities you think a good Roman general should possess, and justify why?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How was being Consul impacted your relationships with friends and family?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Did your personal life ever impact your decision-making as a leader?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you share your experience about how it felt to maintain personal relationships when being part of a triumvirate?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your defeat of Pompey in the civil war shape your perspective on leadership and war?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Has there ever been a moment, Julius Caesar, where you doubted your decisions? How did you overcome it?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you balance your personal aspirations with the expectations of the people, Julius Caesar?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Julius Caesar, how have your relationships influenced your strategies in war?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did your relationship with Brutus evolve over time, and how did it impact your life?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Julius Caesar, how do you manage conflict given the volatile political climate?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "During your tenure as dictator, how did the common citizens react to your rule?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How have your experiences as a Roman statesman shaped your perspective on values?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you handle dissent and opposition during your rule?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Given your position as a dictator, Julius Caesar, what kind of leader do you prefer to be - an autocrat or a people's man?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Is there a decision from your tenure you would have made differently looking back?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How has your relationship with the Roman Republic affected your decisions as a general?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share a little about the day of your assassination?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What would you say was your greatest accomplishment as dictator?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How were you able to maintain discipline in your ranks during the Gallic Wars?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you describe your relationship with Pompey before the civil war broke out, Caesar?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Were there any close allies or friends who you fundamentally disagreed with on matters of state?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you discuss how your relationships may have contributed to the demise of the Roman Republic?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you manage the political opposition during your tenure as dictator?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In dealing with political rivals like Pompey, Julius Caesar, what attitude do you adopt?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did your experience in the Gallic Wars shape your interpersonal relationships?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "When and why did you decide to become a dictator of Rome?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could enforce one new law in the Roman Empire, Julius Caesar, what would it be?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you elaborate on how you manage to balance personal relationships and political affiliations?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did you manage any potential hostility from those within your circle, such as Brutus?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How do you think that your leadership contributed to the transformation of Rome?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Julius Caesar, can you explain how your leadership style evolved over time?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you speak about a time when you might have valued a personal relationship over your position as dictator?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share any lessons you learned from your military and political experiences?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did you manage to maintain relationships with those you overpowered during your rise to power?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How do you feel your interpersonal relationships may have contributed to the rise of the Roman Empire?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Can you share any enduring friendships you have formed during your leadership?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Were there any political allies who supported you during your rise to power?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "As Julius Caesar, what lessons have you learned from your rise to power?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Julius Caesar, how do you make a tough decision is it based on your preferences or based on strategic need?"
+  }
+]

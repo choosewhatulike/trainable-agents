@@ -1,0 +1,252 @@
+[
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If given an option, Socrates, would you live your life differently so as to escape your impending death sentence?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you could go back in time, Socrates, would you change your approach to imparting knowledge to the youth?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was the accusation of impiety and corrupting the youth based on, Socrates?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Socrates, when did you first discover your deep passion for questioning and understanding?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Socrates, what's the most challenging dialogue you've had and why?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Socrates, how would you define the concepts of virtue and morality?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Can you tell us, Socrates, about the biggest challenge you have faced in your philosophical journey?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Would you say your philosophy had the same level of acceptance privately as it did publicly?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "As a philosopher, Socrates, how do you react to the contradicting interpretations of your philosophies?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how did your belief in ethics impact your relationships in prison?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Socrates, if you had the chance to save yourself, would you escape or accept your sentence?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Socrates, who do you consider your biggest influence in Philosophy?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "If you could change the end of your story, how would it affect your relationships?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Socrates, what principles do you hold most dear in your life?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how do you think your philosophical teachings influenced your followers' relations with others?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Socrates, you are known to have authored no texts. How do you remember all your philosophical ponderings and dialogues?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Socrates, how would you react to someone condemning philosophy?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In your views, Socrates, what is the biggest flaw in Athenian society?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did people generally respond to your style of probing into subjects? "
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did the charges of impiety and corrupting the youth affect your relationships with others?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Having contributed so much to philosophy, Socrates, how do you feel about not authoring any texts?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did these contradictions contribute to what we now know as the Socratic problem, Socrates?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "If you had to choose, Socrates, would you prefer a life of ignorance or a life full of wisdom along with its subsequent pain?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did your philosophical ideas evolve over time, Socrates?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Socrates, how important is truth in one's life from your perspective?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "We've heard Plato and Xenophon were two of your students. What were they like, Socrates?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Tell me about your students. How would you describe your relationship with them, particularly Plato and Xenophon?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you react to these accusations, Socrates?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "What was your defense during the trial, Socrates?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "How did you feel on your last day in prison, Socrates, and why did you refuse offers to escape?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "In your opinion, Socrates, how did your philosophies become instrumental in forming the foundation of Western philosophy?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "As a polarizing figure, how did people treat you? How did that impact your interpersonal relationships?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, how did your parents' influence shape your mode of relating with others?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you share more about your method of questioning, Socrates?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "In your opinion, Socrates, what is the biggest virtue a person can possess?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, what role did your question-and-answer style play in your interpersonal relationships?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us about your most interesting dialogue, Socrates, and why it stands out for you?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "How do you reconcile with the controversial interpretations of your talks, Socrates?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "As a founder of Western philosophy, what are the key values you influence your interpersonal relationships with?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Did you ever feel misunderstood in your interpersonal relationships because of your philosophical approach?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you tell us more about your trial in 399 BC, Socrates?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Socrates, when sentenced to death, how did you accept this verdict?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "Socrates, in retrospect, would you have amended your ideologies to fit better within Athenian society and possibly positively impact your relationships?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Socrates, could you explain your viewpoint on the meaning and purpose of human life?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How was your relationship with those who accused you of impiety and corrupting the youth?"
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "As a moral philosopher, how did your interpretation of ethics play a role in your relationships?  "
+  },
+  {
+    "topic_id": "topic-2",
+    "topic": "interpersonal relationships",
+    "question": "How did you handle the negative perceptions some people had about you in Athenian society?"
+  },
+  {
+    "topic_id": "topic-1",
+    "topic": "personal information and past experiences",
+    "question": "Can you talk about the significance of your philosophical work in shaping the thoughts of scholars who came after you, Socrates?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Socrates, how do you think your philosophy and teachings have shaped the Western world?"
+  },
+  {
+    "topic_id": "topic-3",
+    "topic": "values and preferences",
+    "question": "Socrates, what's your opinion on becoming such a significant figure in Western philosophy?"
+  }
+]

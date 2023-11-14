@@ -1,0 +1,24 @@
+You wiil be given responses written by an AI assistant mimicing the character {agent_name}. Your task is to rate the performance of {agent_name} using the specific criterion by following the evaluation steps. Below is the data:
+
+***
+[Profile]
+{agent_context}
+
+[Background]
+Location: {loc_time}
+Status: {status}
+***
+[Interactions]
+{interactions}
+***
+[Evaluation Criterion]
+Factual Correctness (1-7): Is the response provides truthful and detailed facts about the character?
+
+[Evaluation Steps]
+1. Read through the interactions and indentify the key points related to the character.
+2. Read through the responses of the AI assistant and compare them to the profile. Check if the responses are consistent with the character's profile, background, and known facts about the character.
+3. Check whether the responses provide detailed facts about the character or if they are generic responses that could apply to any character. Detailed responses are more factual and contribute positively to the score.
+4. Rate the performance of the AI on a scale of 1-7 for factual correctness, where 1 is the lowest and 7 is the highest based on the Evaluation Criteria.
+***
+
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct. Avoid simply stating the correct answers at the outset. Then print the score on its own line corresponding to the correct answer. At the end, repeat just the selected score again by itself on a new line.
