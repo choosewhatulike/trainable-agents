@@ -170,15 +170,21 @@ torchrun --nproc_per_node=8 --master_port=20031 fastchat/train/train_mem.py \
 The inference also requires `FastChat`. You can start the model inference server by following commands:
 ```bash
 cd FastChat
+
+# start the controller
 export IP=$(hostname -i)
 python3 -m fastchat.serve.controller --host $IP &
 
+# start the Openai Format API server
+python3 -m fastchat.serve.openai_api_server --host 0.0.0.0 --port 28001 --controller-address http://$IP:21001
+
+# start the model worker
 export MODEL_PATH=/path/to/ckpt/${CHARACTER}_7b/
 export MODEL_NAME=${CHARACTER}_7b
 CUDA_VISIBLE_DEVICES=0 python3 -m fastchat.serve.model_worker --model-path $MODEL_PATH --model-names $MODEL_NAME --controller-address http://$IP:21001 --host $IP --port 21009 --worker-address http://$IP:21009
 ```
 
-You can run multiple model_worker to connect to the controller to speed up the inference.
+You can run multiple model_workers to connect to the controller to speed up the inference.
 And then, run singe-turn and multi-turn interviews with the following code.
 
 #### Single-Turn Interview
