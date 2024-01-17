@@ -115,7 +115,7 @@ python parser/parse_data_scene.py result/2023-10-08/gen_scene/gpt-3.5-turbo-temp
 
 ```bash 
 python run_api_gen_data.py --prompt_name gen_dialogue --character Beethoven --data_path processed/2023-10-08/
-python parser/parse_data_hallucination.py result/2023-10-08/gen_dialogue/gpt-3.5-turbo-temp-0.2-char-Beethoven.jsonl
+python parser/parse_data_dialogue.py result/2023-10-08/gen_dialogue/gpt-3.5-turbo-temp-0.2-char-Beethoven.jsonl
 
 ```
 
