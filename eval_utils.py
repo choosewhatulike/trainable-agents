@@ -86,7 +86,7 @@ class Character:
         self.status = status
         self.backend = 'sft'
         
-        with open(osp.join(seed_data_dir, 'prompts', 'meta_prompt_agent_dialogue.txt'), 'r', encoding='utf-8') as fp:
+        with open(osp.join(seed_data_dir, 'prompts', 'agent_meta_prompt_sft.txt'), 'r', encoding='utf-8') as fp:
             self.meta_instruction = fp.read().strip()
         self.character_name, _ = read_profile(osp.join(seed_data_dir, 'profiles', f'wiki_{name}.txt'))
         self.dialogue_history = []
@@ -354,7 +354,7 @@ class PromptLocalCharacter(PromptCharacter):
         max_length = 256
         temperature = 0.2
         prompt = self.get_prompt()
-        response = decoder_for_openai('gpt-3.5-turbo', self.model_name, prompt, max_length, temperature, apikey=API_KEY)
+        response = decoder_for_local_chat(self.model_name, prompt, max_length, temperature)
         # print('[START]\n' + prompt + '\n[END]')
         # print(response)
         # dialogue = self.post_process(response)
