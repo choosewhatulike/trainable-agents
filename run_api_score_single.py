@@ -12,7 +12,7 @@ import sys
 gen_results_dir = './evaluation_result/interview_single'
 output_dir = './evaluation_result/score_chatgpt_single'
 aspect = sys.argv[1]
-assert aspect in ['memory', 'values', 'personality', 'hallucination'], f'aspect:{aspect} is not supported!'
+assert aspect in ['memory', 'values', 'personality', 'stability', 'hallucination'], f'aspect:{aspect} is not supported!'
 DEBUG = True
 
 if DEBUG:
